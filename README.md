@@ -1,4 +1,4 @@
-# python-intro.
+# python-intro
 
 Wprowadzenie i organizacja pracy
 Korzystanie z dokumentacji języka Python
